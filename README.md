@@ -1,4 +1,4 @@
-# Terraform 示例工程
+# Terraform 示例
 
 本仓库包含按云厂商（AWS / GCP）组织的 Terraform 示例配置，展示常见基础设施资源的最小可运行示例，便于学习与参考。
 
